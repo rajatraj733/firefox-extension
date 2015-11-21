@@ -1,2 +1,2 @@
 #ERP
-To log into the erp site
+To automatically log into the erp site
