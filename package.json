@@ -1,0 +1,64 @@
+{
+  "title": "ERP",
+  "name": "erp",
+  "version": "0.0.1",
+  "description": "To log into the erp site",
+  "main": "index.js",
+  "author": "Rajat Raj",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "preferences": [{
+    "name": "userid",
+    "title": "The user id in erp",
+    "value": "12CE10037",
+    "type": "string"
+    },
+  {
+    "name": "pwd",
+    "title": "password",
+    "value": "raj.rajat10",
+    "type": "string"
+    },
+  {
+    "name": "ques1",
+    "title": "Question 1",
+    "value": "What is my first school's name?",
+    "type": "string"
+    },
+  {
+    "name": "ques2",
+    "title": "Question 2",
+    "value": "My Best Friend In Bokaro?",
+    "type": "string"
+    },
+  {
+    "name": "ques3",
+    "title": "Question 3",
+    "value": "What is ur name in home?",
+    "type": "string"
+    },
+  {
+    "name": "ans1",
+    "type": "string",
+    "value": "central academy",
+    "title": "Answer 1"
+    },
+  {
+    "name": "ans2",
+    "type": "string",
+    "value": "shubham",
+    "title": "Answer 1"
+    },
+  {
+    "name": "ans3",
+    "type": "string",
+    "value": "golu",
+    "title": "Answer 1"
+    }]
+}
