@@ -22,4 +22,4 @@ var myVar = setInterval(function(){
 		$(".btn:first").click();
 	}
 
-}, 2000);
+}, 500);

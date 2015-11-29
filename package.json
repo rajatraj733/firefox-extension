@@ -16,49 +16,49 @@
   "preferences": [{
     "name": "userid",
     "title": "The user id in erp",
-    "value": "12CE10037",
+    "value": "Your Roll No",
     "type": "string"
     },
   {
     "name": "pwd",
     "title": "password",
-    "value": "raj.rajat10",
+    "value": "Your password",
     "type": "string"
     },
   {
     "name": "ques1",
     "title": "Question 1",
-    "value": "What is my first school's name?",
+    "value": "1st question",
     "type": "string"
     },
   {
     "name": "ques2",
     "title": "Question 2",
-    "value": "My Best Friend In Bokaro?",
+    "value": "2nd question",
     "type": "string"
     },
   {
     "name": "ques3",
     "title": "Question 3",
-    "value": "What is ur name in home?",
+    "value": "3rd question",
     "type": "string"
     },
   {
     "name": "ans1",
     "type": "string",
-    "value": "central academy",
+    "value": "answer of 1st question",
     "title": "Answer 1"
     },
   {
     "name": "ans2",
     "type": "string",
-    "value": "shubham",
+    "value": "answer of 2nd question",
     "title": "Answer 1"
     },
   {
     "name": "ans3",
     "type": "string",
-    "value": "golu",
+    "value": "answer of 3rd question",
     "title": "Answer 1"
     }]
 }
